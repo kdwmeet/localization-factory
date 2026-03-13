@@ -60,3 +60,7 @@ uv run streamlit run main.py
 3. **SEO 키워드 도출 검증**: 최종 결과물에서 각 언어별로 지정된 SEO 키워드가 해당 국가의 언어로 명확히 제시되었으며, 본문 내에 자연스럽게 배치되었는지 확인합니다.
 
 ## 7. 실행 화면
+<img width="1299" height="792" alt="스크린샷 2026-03-13 102051" src="https://github.com/user-attachments/assets/8b6f835b-f1e6-4f31-95a1-1e2a6f3a8062" />
+<img width="1300" height="825" alt="스크린샷 2026-03-13 102108" src="https://github.com/user-attachments/assets/d268e091-7d50-40b8-971c-9668dbd145da" />
+
+
